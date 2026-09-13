@@ -26,6 +26,7 @@ git clone https://github.com/mirrorcher/UserFetch.git
 
 2. Copy the script to your local user binaries directory and make it executable:
 ```bash
+cd UserFetch
 mkdir -p ~/.local/bin
 cp userfetch ~/.local/bin/userfetch
 chmod +x ~/.local/bin/userfetch
