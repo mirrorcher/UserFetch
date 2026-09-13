@@ -1,4 +1,7 @@
 # UserFetch
+
+![userfetch preview](./screenshot.png)
+
 A lightweight, portable custom shell script to display your user avatar side-by-side with formatted system information in the terminal.
 
 ## Features
