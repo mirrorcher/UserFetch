@@ -18,7 +18,7 @@ A lightweight, portable custom shell script to display your user avatar side-by-
 
 ## Installation
 
-1. Just install it from AUR
+Just install it from AUR
 ```bash
 paru -S userfetch
 
