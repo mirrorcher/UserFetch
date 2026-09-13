@@ -30,6 +30,7 @@ cd UserFetch
 mkdir -p ~/.local/bin
 cp userfetch ~/.local/bin/userfetch
 chmod +x ~/.local/bin/userfetch
+cd ~
 
 ```
 
