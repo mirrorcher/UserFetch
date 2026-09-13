@@ -18,7 +18,13 @@ A lightweight, portable custom shell script to display your user avatar side-by-
 
 ## Installation
 
-1. Copy the script to your local user binaries directory and make it executable:
+1. Copy script from GitHub (Soon available in the AUR and pacman too)
+```bash
+git clone https://github.com/mirrorcher/UserFetch.git
+
+```
+
+2. Copy the script to your local user binaries directory and make it executable:
 ```bash
 mkdir -p ~/.local/bin
 cp userfetch ~/.local/bin/userfetch
@@ -27,7 +33,7 @@ chmod +x ~/.local/bin/userfetch
 ```
 
 
-2. Ensure the path is exported in your shell configuration (e.g., `~/.zshrc` or `~/.bashrc`):
+3. Ensure the path is exported in your shell configuration (e.g., `~/.zshrc` or `~/.bashrc`):
 ```bash
 export PATH="$HOME/.local/bin:$PATH"
 
